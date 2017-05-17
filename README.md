@@ -14,3 +14,4 @@ archivos base:
 -1 propio del proyecto (app.js)
 
 la carpeta assets/image contiene 5 imagenes en formato jpg.
+la carpeta fonts tiene todos los archivos que se descargaron con bootstrap
