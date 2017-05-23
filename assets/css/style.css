@@ -87,11 +87,17 @@ font-size: 2.8rem;
   width: 2rem;
   height: 2rem;
 }
-.icon-tam{
-    width: 175px;
-    height: 175px;
-    /*background-size: contain;*/
+.icon-tam-mov,.icon-tam{
+  width: 20rem;
+  height: 20rem;
+  background-size: contain;
+  display: inline-block;
 }
+.icon-tam-mov{
+  width: 6rem;
+  height: 6rem;
+}
+
 .color-icon{
   border-radius: 50%;
   background-color: #FFCC66;
@@ -99,6 +105,36 @@ font-size: 2.8rem;
   margin: 0 auto 20px;
   position: relative;
   width: 225px;
+}
+
+.contenido2, .contenido3, .contenido4, .contenido5{
+  background-color: #F9F9F9;
+  height: 100%;
+  padding: 7rem 0;
+}
+.contenido2 p{
+  color: #494949;
+}
+
+.contenido3{
+  background-color: #fff;
+}
+
+.contenido3 h1, h2{
+  color: #3498DB;
+}
+.contenido3 span {
+  width: 10rem;
+  height: 10rem;
+}
+
+.contenido4{
+  background-color: #75B9E7;
+}
+
+
+.contenido5{
+  background-color: #3498DB;
 }
 Manual de Marca:
 
